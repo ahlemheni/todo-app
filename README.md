@@ -12,7 +12,11 @@ Currently, two official plugins are available:
 
 The ToDo app is a simple task management tool built using React and Redux. Users can list their tasks, mark them as complete, and add new ones. In addition to the core features, I've added bonus functionalities like search, filtering, deletion, and task modification to enhance the user experience.
 
-![Todo App Preview](https://github.com/ahlemheni/todo-app/assets/116323076/122d775a-486b-4763-b5c6-9f0e7ed2f09e)
+
+
+https://github.com/ahlemheni/todo-app/assets/116323076/757e12a2-2cd4-407b-8137-154a4e8e9da9
+
+
 
 ## Running the finished code
 
