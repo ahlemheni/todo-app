@@ -6,12 +6,10 @@ https://github.com/ahlemheni/todo-app/assets/116323076/122d775a-486b-4763-b5c6-9
 
 
 ![2222222222222222222](https://github.com/ahlemheni/todo-app/assets/116323076/d3423895-4ab5-4768-8ab5-55a925e6672a)
+## Running the finished code
+### Clone the repo and run the following:
 
-
-Running the finished code
-Clone the repo and run the following:
-
-cd todo-app
-npm install
-npm run dev
+- cd todo-app
+- npm install
+- npm run dev
 Open http://localhost:5173/ to view it in your browser
